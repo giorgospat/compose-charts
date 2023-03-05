@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Charts</string>
+    <string name="label_pie_chart">Pie Chart</string>
+    <string name="label_donut_chart">Donut Chart</string>
+    <string name="label_gauge_chart">Gauge Chart</string>
+    <string name="label_bar_chart">Bar Chart</string>
+    <string name="label_stacked_bar_chart">Stacked Bar Chart</string>
+</resources>
